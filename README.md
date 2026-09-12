@@ -15,6 +15,7 @@ Built to answer instantly:
 ---
 
 ## 🔗 Connected Ecosystem
+- **Live Production URL**: [https://placement-dashboard-flame.vercel.app](https://placement-dashboard-flame.vercel.app)
 - **GATE 2027 Personal Dashboard**: [https://gate-2027-personal-dashboard.vercel.app/](https://gate-2027-personal-dashboard.vercel.app/) (Connected directly inside the Sidebar, Command Palette `Ctrl+K`, Header, and Dashboard banner)
 - **GitHub Repository**: [https://github.com/VedantDgit/placement-dashboard](https://github.com/VedantDgit/placement-dashboard)
 
